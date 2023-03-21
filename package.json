@@ -54,6 +54,7 @@
     "build/**/*"
   ],
   "dependencies": {
-    "pre-commit": "^1.2.2"
+    "pre-commit": "^1.2.2",
+    "pre-push": "^0.1.4"
   }
 }
