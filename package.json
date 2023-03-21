@@ -7,6 +7,16 @@
   "author": "Fra <francesco.gamondi1@gmail.com>",
   "license": "MIT",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fragamo/base-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fragamo/base-converter/issues"
+  },
+  "homepage": {
+    "url": "https://github.com/fragamo/base-converter#readme"
+  },
   "scripts": {
     "check-types": "tsc --noEmit",
     "build": "tsc",
