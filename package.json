@@ -52,5 +52,8 @@
   },
   "files": [
     "build/**/*"
-  ]
+  ],
+  "dependencies": {
+    "pre-commit": "^1.2.2"
+  }
 }
